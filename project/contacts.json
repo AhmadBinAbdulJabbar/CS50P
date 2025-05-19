@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Waleed",
+        "phone": "03001234567",
+        "email": "waleed@gmail.com",
+        "address": "Lahore"
+    },
+    {
+        "name": "Ahmad",
+        "phone": "03007654321",
+        "email": "ahmad@gmail.com",
+        "address": "Bahawalpur"
+    }
+]
